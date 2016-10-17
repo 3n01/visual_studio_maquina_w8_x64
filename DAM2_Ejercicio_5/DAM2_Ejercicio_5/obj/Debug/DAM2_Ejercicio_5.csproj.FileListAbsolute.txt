@@ -1,0 +1,20 @@
+\\prgserver\adtpresencial$\dam2d02\mis documentos\visual studio 2013\Projects\DAM2_Ejercicio_5\DAM2_Ejercicio_5\bin\Debug\DAM2_Ejercicio_5.exe.config
+\\prgserver\adtpresencial$\dam2d02\mis documentos\visual studio 2013\Projects\DAM2_Ejercicio_5\DAM2_Ejercicio_5\bin\Debug\DAM2_Ejercicio_5.exe
+\\prgserver\adtpresencial$\dam2d02\mis documentos\visual studio 2013\Projects\DAM2_Ejercicio_5\DAM2_Ejercicio_5\bin\Debug\DAM2_Ejercicio_5.pdb
+\\prgserver\adtpresencial$\dam2d02\mis documentos\visual studio 2013\Projects\DAM2_Ejercicio_5\DAM2_Ejercicio_5\obj\Debug\DAM2_Ejercicio_5.csprojResolveAssemblyReference.cache
+\\prgserver\adtpresencial$\dam2d02\mis documentos\visual studio 2013\Projects\DAM2_Ejercicio_5\DAM2_Ejercicio_5\obj\Debug\DAM2_Ejercicio_5.frmFichaAlumnado.resources
+\\prgserver\adtpresencial$\dam2d02\mis documentos\visual studio 2013\Projects\DAM2_Ejercicio_5\DAM2_Ejercicio_5\obj\Debug\DAM2_Ejercicio_5.Properties.Resources.resources
+\\prgserver\adtpresencial$\dam2d02\mis documentos\visual studio 2013\Projects\DAM2_Ejercicio_5\DAM2_Ejercicio_5\obj\Debug\DAM2_Ejercicio_5.csproj.GenerateResource.Cache
+\\prgserver\adtpresencial$\dam2d02\mis documentos\visual studio 2013\Projects\DAM2_Ejercicio_5\DAM2_Ejercicio_5\obj\Debug\DAM2_Ejercicio_5.exe
+\\prgserver\adtpresencial$\dam2d02\mis documentos\visual studio 2013\Projects\DAM2_Ejercicio_5\DAM2_Ejercicio_5\obj\Debug\DAM2_Ejercicio_5.pdb
+\\prgserver\adtpresencial$\dam2d02\mis documentos\visual studio 2013\Projects\DAM2_Ejercicio_5\DAM2_Ejercicio_5\obj\Debug\DAM2_Ejercicio_5.frmInscripcion.resources
+C:\Users\3n01\Documents\Visual Studio 2013\Projects\DAM2_Ejercicio_5\DAM2_Ejercicio_5\bin\Debug\DAM2_Ejercicio_5.exe.config
+C:\Users\3n01\Documents\Visual Studio 2013\Projects\DAM2_Ejercicio_5\DAM2_Ejercicio_5\obj\Debug\DAM2_Ejercicio_5.exe
+C:\Users\3n01\Documents\Visual Studio 2013\Projects\DAM2_Ejercicio_5\DAM2_Ejercicio_5\obj\Debug\DAM2_Ejercicio_5.pdb
+C:\Users\3n01\Documents\Visual Studio 2013\Projects\DAM2_Ejercicio_5\DAM2_Ejercicio_5\bin\Debug\DAM2_Ejercicio_5.exe
+C:\Users\3n01\Documents\Visual Studio 2013\Projects\DAM2_Ejercicio_5\DAM2_Ejercicio_5\bin\Debug\DAM2_Ejercicio_5.pdb
+C:\Users\3n01\Documents\Visual Studio 2013\Projects\DAM2_Ejercicio_5\DAM2_Ejercicio_5\obj\Debug\DAM2_Ejercicio_5.csprojResolveAssemblyReference.cache
+C:\Users\3n01\Documents\Visual Studio 2013\Projects\DAM2_Ejercicio_5\DAM2_Ejercicio_5\obj\Debug\DAM2_Ejercicio_5.frmFichaAlumnado.resources
+C:\Users\3n01\Documents\Visual Studio 2013\Projects\DAM2_Ejercicio_5\DAM2_Ejercicio_5\obj\Debug\DAM2_Ejercicio_5.frmInscripcion.resources
+C:\Users\3n01\Documents\Visual Studio 2013\Projects\DAM2_Ejercicio_5\DAM2_Ejercicio_5\obj\Debug\DAM2_Ejercicio_5.Properties.Resources.resources
+C:\Users\3n01\Documents\Visual Studio 2013\Projects\DAM2_Ejercicio_5\DAM2_Ejercicio_5\obj\Debug\DAM2_Ejercicio_5.csproj.GenerateResource.Cache
